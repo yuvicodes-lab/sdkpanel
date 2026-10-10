@@ -1,0 +1,11 @@
+name = "sdkpanel"
+main = "worker.js"
+compatibility_date = "2024-11-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "yuvi_sdk"
+database_id = "65375fd2-7b78-43a4-af18-59efa87e46ad"
+
+[vars]
+JWT_SECRET = "CHANGE_THIS_LONG_RANDOM_SECRET_1234567890"
